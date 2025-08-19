@@ -1,19 +1,19 @@
-# Hi there, I'm Fatima Naseer 👋
+# Hi there, I'm Fatima Naseer 
 
-🌐 **Web Developer | 📊 Data Visualization Enthusiast | ✍️ Creative Writer**
+**Web Developer | Data Visualization Enthusiast | Creative Writer**
 
 ---
 
-### 🚀 About Me
+### About Me
 I'm a skilled **Web Developer** and **Data Visualization enthusiast** who loves blending technical expertise with creative storytelling.  
-- 💻 Proficient in **HTML, CSS, Bootstrap, Dart, C++, Python, Java**  
-- 📊 Skilled in **Power BI** for transforming complex data into meaningful visual stories  
-- 🌟 Built impactful projects like **"The Signatures"** and my **Portfolio Website**  
-- ✨ A **creative writer** at heart, passionate about crafting words as much as code  
+- Proficient in **HTML, CSS, Bootstrap, Dart, C++, Python, Java**  
+- Skilled in **Power BI** for transforming complex data into meaningful visual stories  
+- Built impactful projects like **"The Signatures"** and my **Portfolio Website**  
+- A **creative writer** at heart, passionate about crafting words as much as code  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -29,11 +29,11 @@ I'm a skilled **Web Developer** and **Data Visualization enthusiast** who loves 
 
 ---
 
-### 🌍 Beyond Tech
-- 📚 Avid reader & lifelong learner  
-- 🎥 Love watching informative documentaries  
-- 🌌 Fascinated by **astronomy** and **space exploration**  
-- 🌎 Passionate about **world travel** and new technology inventions  
+### Beyond Tech
+- Avid reader & lifelong learner  
+- Love watching informative documentaries  
+- Fascinated by **astronomy** and **space exploration**  
+- Passionate about **world travel** and new technology inventions  
 
 ---
 
